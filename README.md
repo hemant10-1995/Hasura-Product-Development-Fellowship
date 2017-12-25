@@ -2,6 +2,8 @@
 
 # Description about repository 
   This repository contains  HPDF Week 1 tasks .
+  
+ #Follow these steps to run on local machine 
 
 
 
@@ -40,8 +42,7 @@
  Now you have to right click on your project name and create directory with name templates follow same rule and create another directory with name static.
 
  step-7
- Inside the templates directory create seven file with .html extension and inside the static directory create single file with .jpg extension ,the 
- name of all file names same as the you download from the repository file name .
+ Inside the templates directory create seven files with .html extension also we can do place all seven html file inside templates directory and inside the static directory place hasura.jpg file ,the name of all file names same as the you download from the repository file name .
 
  step-8
  open every file which is download from repository with the help of sublime text editor/any text editor,copy all the files data and paste into its same file name which is present on the PyCharm project. (i.e all the inside static files present into static folder and all the inside templates files present in templates folder)
