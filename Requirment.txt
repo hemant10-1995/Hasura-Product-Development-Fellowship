@@ -1,0 +1,9 @@
+System requirements for PyCharm :
+
+ Microsoft Windows 10/8/7/Vista/2003/XP (incl.64-bit)
+ 1 GB RAM minimum
+ 2 GB RAM recommended
+ 1024x768 minimum screen resolution
+
+Python version:
+ Python 3.x 
